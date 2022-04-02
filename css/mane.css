@@ -1,0 +1,63 @@
+@font-face{
+			font-family: 'Web font';
+			src: url('../img/font/EBENYA.ttf') format('truetype');
+}
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+p{color: purple;
+	font-size: 32px;
+	
+}
+h1{color: purple;
+	font-size: 32px;
+	font-family: 'Press Start 2P', cursive;
+	
+}
+div{
+	width: 70%;
+	margin: auto;
+	background-color: black;
+	padding: 50px;
+	box-shadow: 0 0 10px 1 px rgba(0,0,0,0,.2);
+}
+span{
+	font-family: 'Web font';
+	background-color: purple;
+}
+p{
+	color: purple;
+	font-size: 32px;
+	font-family: 'Press Start 2P', cursive;
+}
+
+
+a {
+	text-decoration: none;
+	color: purple;
+	font-size: 20px;
+	display: inline-block;
+	margin: 20px 0;
+	border-bottom: 2px solid transparent;
+	translition: 10s ease-in;
+}
+a:hover{
+	border-bottom-color: purple;
+}
+img	{
+	max-widht: 100%;
+	height: auto;
+	display: block;	
+}
+		 
+body{
+	background-color: black;
+}
+li{
+	font-size: 32px;
+	color: purple;
+	margin-left: 60px;
+	font-family: 'Press Start 2P', cursive;
+}
